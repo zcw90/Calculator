@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 按钮颜色 -->
+    <color name="button_pressed">#33CC99</color>
+    <color name="button_unpressed">#33c2cc</color>
+
+    <!-- 按钮之间的线条颜色 -->
+    <color name="line">#996600</color>
+
+    <!-- 按钮文字颜色 -->
+    <color name="button_word">#CC3366</color>
+
+    <!-- 结果展示栏颜色 -->
+    <color name="result">#00FFAA</color>
+    <color name="express">#00FF88</color>
+</resources>

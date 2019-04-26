@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标准型数字按钮显示内容 -->
+    <string-array name="number_standard">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+
+    <!-- 科学型数字按钮显示内容 -->
+    <string-array name="number_science">
+        <item>0 π</item>
+        <item>1 sinh</item>
+        <item>2 cosh</item>
+        <item>3 tanh</item>
+        <item>4 sin</item>
+        <item>5 cos</item>
+        <item>6 tan</item>
+        <item>7 √x</item>
+        <item>8 √(x&amp;y)</item>
+        <item>9 x^2</item>
+        <item>.</item>
+    </string-array>
+
+    <!-- 标准型运算符按钮显示内容 -->
+    <string-array name="operator_standard">
+        <item>＋</item>
+        <item>－</item>
+        <item>×</item>
+        <item>÷</item>
+    </string-array>
+
+    <!-- 科学型运算符按钮显示内容 -->
+    <string-array name="operator_science">
+        <item>＋ e</item>
+        <item>－ y^x</item>
+        <item>× ln</item>
+        <item>÷ log</item>
+    </string-array>
+</resources>
